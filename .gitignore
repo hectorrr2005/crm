@@ -105,3 +105,6 @@ venv.bak/
 
 # my database
 mydatabase
+
+# my local folders and files
+sent_emails
